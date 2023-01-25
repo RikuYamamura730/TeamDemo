@@ -5,6 +5,8 @@
 
 int main()
 {
+
+    printf("01");
     printf("テスト!");
 }
 
