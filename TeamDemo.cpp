@@ -5,6 +5,8 @@
 
 int main()
 {
+    printf("master");
+
 
     printf("01");
     printf("テスト!");
